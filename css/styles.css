@@ -3,8 +3,21 @@
     border-radius: 60%;
     width: 300px;
     height: 300px;
+    float: inline-end;
 }
 h1 {
     text-align: center;
     background-color: gold;
 }
+
+.sidebar {
+    width: 40%;
+    height: auto;
+    float: right;
+    background-color: yellow;
+  }
+
+  .columns {
+    width: 350px;
+    float: left;
+  }
