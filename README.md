@@ -1,14 +1,16 @@
-# My First Project
+# My Portfolio
 
-#### Author: [Tuikong](github.com/Allantuikong)
- 
+## Author: [Tuikong Allan Kipkorir] (<https://github.com/Allantuikong>)
+
 ### Description
 
- Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting,
+This is my portfolio. The website contains my personal infomation as well as my work as a computer programmer. This will serve as a good introduction to my future potential employers and anyone of interest. Website written with HTML and CSS styles. References made from various resources including Moringa School course outline.
 
 ### Features
-* Feature 1
-- Feature 2
+
+* Link to active sites at gh-pages
+
+* Complete with MIT license
 
 ### Link to the published site [My portfolio](google.com)
 
