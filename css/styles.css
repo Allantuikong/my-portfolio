@@ -1,14 +1,41 @@
 
-.box-img{
-    border-radius: 80%;
-    width: 200px;
-    height: 200px;
-    float: left;
-    border: double;
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
 }
+
 h1 {
     text-align: center;
     background-color: gold;
+}
+
+.column {
+  width: 220px;
+  float: left;
+  border: 2px solid red;
+  padding: 5px;
+  margin: 10px;
+  background-color: yellow;
+
+ }
+
+ ul { 
+  list-style:none; 
+  padding-left:0; 
+} 
+
+.sidebar {
+  
+    width: 30%;
+    float: left;
+    background-color: yellow;
+  
 }
 
 

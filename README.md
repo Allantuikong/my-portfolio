@@ -14,4 +14,4 @@ This is my portfolio. The website contains my personal infomation as well as my 
 
 ### Link to the published site [My portfolio](google.com)
 
-### License: [MIT](https://raw.githubusercontent.com/Allantuikong/my-first-website/master/LICENSE)
+### License: [MIT](https://raw.githubusercontent.com/Allantuikong/my-portfolio/master/LICENSE)
