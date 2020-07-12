@@ -49,7 +49,9 @@ h2 {
 
 .important {
   color: green;
+  font: italic;
 }
+
 
 @media screen and (min-width: 480px) {
   body {
