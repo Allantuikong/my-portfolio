@@ -52,13 +52,16 @@ h2 {
   font: italic;
 }
 
-@media only screen and (min-width: 768px) {
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
   .column {
-    width: 200px;
+    width: 95%;
     float: left;
     border: 2px solid red;
     padding: 4px;
     margin: 4px;
     background-color: yellow;
 }
-}
+  }
+
+
